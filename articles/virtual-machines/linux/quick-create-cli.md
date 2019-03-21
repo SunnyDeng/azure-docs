@@ -114,9 +114,9 @@ When no longer needed, you can use the [az group delete](/cli/azure/group) comma
 az group delete --name myResourceGroup
 ```
 
-## Next steps
+## Next steps of ...
 
-In this quickstart, you deployed a simple virtual machine, open a network port for web traffic, and installed a basic web server. To learn more about Azure virtual machines, continue to the tutorial for Linux VMs.
+In this quickstart, you deployed a simple virtual machine, open a network port for web traffic, and installed a basic web server. To learn more about Azure virtual machines, continue to the tutorial for Linux VMs. 
 
 
 > [!div class="nextstepaction"]
